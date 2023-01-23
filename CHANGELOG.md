@@ -1,3 +1,5 @@
+## 20230123
+* 将 .github/workflows 下 .yml 文件中的 runs-on: self-hosted 改成 runs-on: ubuntu-latest
 ## 20210303
 * 日常更新
 * 修复 trogan-go 无法运行的问题
